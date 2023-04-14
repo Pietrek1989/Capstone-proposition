@@ -6,7 +6,7 @@ My friends have a kind of rental house that they rent to the Tourists and I thou
 
 
 ### Features:
-* User login with credentials or with TWT
+* User login with googleAuth or with TWT
 * Once log in you can see your reservations
 * Booking page with available dates and prices for client
 * payment solution once it has been approved
@@ -33,6 +33,7 @@ My friends have a kind of rental house that they rent to the Tourists and I thou
 - TWT 
 - sendgrid/mail 
 - cloudinary
+- Oauth
 - socket.io for chat
 - stripe for payment
 
@@ -41,7 +42,7 @@ My friends have a kind of rental house that they rent to the Tourists and I thou
 Blockchain app for convienient transaction with attractive UI and a hang out plce for crypto enthusiasts
 
 ### Features:
-* User login with credentials or with TWT
+* User login with googleAuth or with TWT
 * metamask wallet functionality, connection
 * blockchain integration, to be able to send the transactions
 * history of transactions
@@ -61,6 +62,7 @@ Blockchain app for convienient transaction with attractive UI and a hang out plc
 - sendgrid/mail 
 - cloudinary
 - socket.io for chat
+- Oauth
 - hardhat for testing blockchain
 - The Ethers Project as library for ETH blockchain
 - CoinmarketCap api with 10k calls free per month.
