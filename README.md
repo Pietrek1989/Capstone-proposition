@@ -2,7 +2,6 @@
 
 
 ## Proposition 1 : Boutique hotel
-My friends have a kind of rental house that they rent to the Tourists and I though it would be nice and useful because its real use to make a Website where customers can book.
 
 
 ### Features:
