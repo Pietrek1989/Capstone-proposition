@@ -38,7 +38,7 @@ My friends have a kind of rental house that they rent to the Tourists and I thou
 - stripe for payment
 
 
-## Proposition 2: Cryptocurrency Blockchain app
+## Proposition 2: Cryptocurrency Blockchain app and community
 Blockchain app for convienient transaction with attractive UI and a hang out plce for crypto enthusiasts
 
 ### Features:
