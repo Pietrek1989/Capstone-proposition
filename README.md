@@ -20,13 +20,13 @@ My friends have a kind of rental house that they rent to the Tourists and I thou
 * owner calendar to ckeck and edit reservations
 
 #### FE: React, Tailwind, (Typescript?), (?Redux), Open Weather API, Weather Unlock API for ski conditions.
-**BE: Express, MongoDB, TWT, sendgrid/mail, cloudinary, stripe for payment, socket.io for chat
+#### BE: Express, MongoDB, TWT, sendgrid/mail, cloudinary, stripe for payment, socket.io for chat
 
 
 ## Proposition 2: Blockchain app
 Blockchain app for convienient transaction with attractive UI and a hang out plce for crypto enthusiasts
 
-***Features:
+### Features:
 * User login with credentials or with TWT
 * metamask wallet functionality, connection
 * blockchain integration, to be able to send the transactions
@@ -34,5 +34,5 @@ Blockchain app for convienient transaction with attractive UI and a hang out plc
 * Group chats with other crypto enthusiasts with possible different rooms
 * Crypto information page with top coins and live prices
 
-**FE: React,Tailwind, (Typescript?), (Redux?)
-**BE: Express, MongoDB, TWT, sendgrid/mail, cloudinary, socket.io for chat, hardhat for testing blockchain, The Ethers Project as library for ETH blockchain, CoinmarketCap api with 10k calls free per month.
+#### FE: React,Tailwind, (Typescript?), (Redux?)
+#### BE: Express, MongoDB, TWT, sendgrid/mail, cloudinary, socket.io for chat, hardhat for testing blockchain, The Ethers Project as library for ETH blockchain,      #### CoinmarketCap api with 10k calls free per month.
