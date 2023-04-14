@@ -2,7 +2,7 @@
 
 
 ## Proposition 1 : Boutique hotel
-
+Real world project for a booking of hotel stay
 
 ### Features:
 * User login with googleAuth or with TWT
