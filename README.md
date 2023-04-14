@@ -2,7 +2,7 @@
 
 
 ## Proposition 1 : Boutique hotel
-My friends have a kind of rental house that they rent to the Tourists and I though it would be nice and useful to make a Website
+My friends have a kind of rental house that they rent to the Tourists and I though it would be nice and useful because its real use to make a Website where customers can book.
 
 
 ### Features:
@@ -39,7 +39,7 @@ My friends have a kind of rental house that they rent to the Tourists and I thou
 
 
 ## Proposition 2: Cryptocurrency Blockchain app and community
-Blockchain app for convienient transaction with attractive UI and a hang out plce for crypto enthusiasts
+Blockchain app for convienient transactions that you can do on the page with attractive UI and a hang out place with chat for crypto enthusiasts and where they can check their favourites cryptocurrencies
 
 ### Features:
 * User login with googleAuth or with TWT
