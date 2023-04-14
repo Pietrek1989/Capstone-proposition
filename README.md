@@ -35,4 +35,5 @@ Blockchain app for convienient transaction with attractive UI and a hang out plc
 * Crypto information page with top coins and live prices
 
 #### FE: React,Tailwind, (Typescript?), (Redux?)
-#### BE: Express, MongoDB, TWT, sendgrid/mail, cloudinary, socket.io for chat, hardhat for testing blockchain, The Ethers Project as library for ETH blockchain,      #### CoinmarketCap api with 10k calls free per month.
+
+#### BE: Express, MongoDB, TWT, sendgrid/mail, cloudinary, socket.io for chat, hardhat for testing blockchain, The Ethers Project as library for ETH blockchain,       CoinmarketCap api with 10k calls free per month.
