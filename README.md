@@ -7,7 +7,7 @@ Real world project for a booking of hotel stay
 ### Features:
 * User login with googleAuth or with TWT
 * Once log in you can see your reservations
-* Booking page with available dates and prices for client
+* Booking page with available dates on calendar and prices for client
 * payment solution once it has been approved
 * approve reservations
 * If client is logged in and have reservation you can start a chat with a owner if you have any questions (socket.io)
