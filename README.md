@@ -9,8 +9,8 @@ My friends have a kind of rental house that they rent to the Tourists and I thou
 * User login with credentials or with TWT
 * Once log in you can see your reservations
 * Booking page with available dates and prices for client
-* aprove reservations by owner
 * payment solution once it has been approved
+* approve reservations
 * If client is logged in and have reservation you can start a chat with a owner if you have any questions (socket.io)
 * main page with hero section, carousel some pictures, informations, and navigations
 * weather at the locations and ski resort
