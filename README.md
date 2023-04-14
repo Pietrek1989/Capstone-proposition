@@ -5,7 +5,7 @@
 My friends have a kind of rental house that they rent to the Tourists and I though it would be nice and useful to make a Website
 
 
-***Features:
+**Features:
 * User login with credentials or with TWT
 * Once log in you can see your reservations
 * If you are log in you can start a chat with a owner if you have any questions (socket.io)
