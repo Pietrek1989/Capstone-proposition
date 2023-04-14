@@ -13,7 +13,7 @@ My friends have a kind of rental house that they rent to the Tourists and I thou
 * approve reservations
 * If client is logged in and have reservation you can start a chat with a owner if you have any questions (socket.io)
 * main page with hero section, carousel some pictures, informations, and navigations
-* weather at the locations and ski resort
+* weather at the locations and ski resort with apis
 * blog page for information about area
 * backoffice with statistics, charts earnings
 * editing of the offer at the backoffice
