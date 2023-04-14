@@ -5,7 +5,7 @@
 My friends have a kind of rental house that they rent to the Tourists and I though it would be nice and useful to make a Website
 
 
-***Features:
+### Features:
 * User login with credentials or with TWT
 * Once log in you can see your reservations
 * Booking page with available dates and prices for client
@@ -19,7 +19,7 @@ My friends have a kind of rental house that they rent to the Tourists and I thou
 * editing of the offer at the backoffice
 * owner calendar to ckeck and edit reservations
 
-**FE: React, Tailwind, (Typescript?), (?Redux), Open Weather API, Weather Unlock API for ski conditions.
+#### FE: React, Tailwind, (Typescript?), (?Redux), Open Weather API, Weather Unlock API for ski conditions.
 **BE: Express, MongoDB, TWT, sendgrid/mail, cloudinary, stripe for payment, socket.io for chat
 
 
