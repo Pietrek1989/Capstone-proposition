@@ -8,18 +8,18 @@ My friends have a kind of rental house that they rent to the Tourists and I thou
 ***Features:
 * User login with credentials or with TWT
 * Once log in you can see your reservations
-* If you are log in you can start a chat with a owner if you have any questions (socket.io)
-* for owner calendar to ckeck and edit reservations
+* Booking page with available dates and prices for client
 * aprove reservations by owner
 * payment solution once it has been approved
-* openweather api to see the weather at the location and perhaps some other api if I find about skiing conditions etc
+* If client is logged in and have reservation you can start a chat with a owner if you have any questions (socket.io)
 * main page with hero section, carousel some pictures, informations, and navigations
+* weather at the locations and ski resort
 * blog page for information about area
-* booking page with calendar when you can see which days are available
 * backoffice with statistics, charts earnings
 * editing of the offer at the backoffice
+* owner calendar to ckeck and edit reservations
 
-**FE: React, Tailwind, (Typescript?), (?Redux)
+**FE: React, Tailwind, (Typescript?), (?Redux), Open Weather API, Weather Unlock API for ski conditions.
 **BE: Express, MongoDB, TWT, sendgrid/mail, cloudinary, stripe for payment, socket.io for chat
 
 
