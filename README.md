@@ -6,10 +6,10 @@ Features:
 * Database with Mongo, TWT login
 * User login with credentials or with TWT
 * Once log in you can see your reservations
-* If you are log in you can start a chat with a owner if you have any questions
+* If you are log in you can start a chat with a owner if you have any questions (socket.io)
 * for owner calendar to ckeck and edit reservations
 * aprove reservations by owner
-* payment solution once it has been approved
+* payment solution once it has been approved(stripe)
 * openweather api to see the weather at the location and perhaps some other api if I find about skiing conditions etc
 * main page with hero section, carousel some pictures, informations, and navigations
 * blog page for information about area
