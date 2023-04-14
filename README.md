@@ -1,9 +1,11 @@
 # Capstone-proposition
-Proposition 1 : Boutique hotel
 
+
+## Proposition 1 : Boutique hotel
 My friends have a kind of rental house that they rent to the Tourists and I though it would be nice and useful to make a Website
+
+
 Features:
-* Database with Mongo, TWT login
 * User login with credentials or with TWT
 * Once log in you can see your reservations
 * If you are log in you can start a chat with a owner if you have any questions (socket.io)
@@ -19,10 +21,10 @@ Features:
 
 
 
-Proposition 2: Blockchain app
+## Proposition 2: Blockchain app
 Blockchain app for convienient transaction with attractive UI and a hang out plce for crypto enthusiasts
+
 Features:
-* Database with Mongo, TWT login
 * User login with credentials or with TWT
 * metamask wallet functionality, connection
 * blockchain integration, to be able to send the transactions
