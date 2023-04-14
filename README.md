@@ -46,7 +46,7 @@ Blockchain app for convienient transaction with attractive UI and a hang out plc
 * blockchain integration, to be able to send the transactions
 * history of transactions
 * Group chats with other crypto enthusiasts with possible different rooms
-* Crypto information page with top coins and live prices
+* Crypto information section with top coins and live prices
 
 #### FE: 
 - React
