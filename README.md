@@ -1,0 +1,2 @@
+# Capstone-proposition
+Boutique hotel
